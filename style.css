@@ -1,0 +1,101 @@
+body {
+        /*color: #002d72;*/
+        /*text-align: center;*/
+        padding: 20px;
+        margin: auto;
+        width: 70%;
+        color: black;
+        background-color: white;
+        font-family: 'Lexend Deca', 'Livvic', sans-serif;
+    }
+
+    .top-section {
+        display: flex;
+        width: 100%;
+    }
+
+    .top-section>img {
+        border-radius: 100%;
+        /*padding-right: 40px;*/
+        /*float: left;*/
+    }
+
+    .top-section>div {
+        margin-left: 50px;
+    }
+
+    .education {
+        /*margin-top: 130px;*/
+        border-radius: 10px;
+        border: solid 2px #ccc;
+        box-shadow: 3px 3px 3px 3px #ccc;
+        padding: 10px;
+    }
+
+    .education>h1 {
+        border-bottom: 2px solid #000;
+    }
+
+    .projects {
+        border-radius: 10px;
+        border: solid 2px #ccc;
+        box-shadow: 3px 3px 3px 3px #ccc;
+        padding: 10px;
+    }
+
+    .projects>h1 {
+        border-bottom: 2px solid #000;
+    }
+
+    .work {
+        border-radius: 10px;
+        border: solid 2px #ccc;
+        box-shadow: 3px 3px 3px 3px #ccc;
+        padding: 10px;
+    }
+
+    .work>h1 {
+        border-bottom: 2px solid #000;
+    }
+
+    .leadership {
+        border-radius: 10px;
+        border: solid 2px #ccc;
+        box-shadow: 3px 3px 3px 3px #ccc;
+        padding: 10px;
+    }
+
+    .leadership>h1 {
+        border-bottom: 2px solid #000;
+    }
+
+    .volunteer {
+        border-radius: 10px;
+        border: solid 2px #ccc;
+        box-shadow: 3px 3px 3px 3px #ccc;
+        padding: 10px;
+    }
+
+
+    .volunteer>h1 {
+        border-bottom: 2px solid #000;
+    }
+
+    .skills {
+        border-radius: 10px;
+        border: solid 2px #ccc;
+        box-shadow: 3px 3px 3px 3px #ccc;
+        padding: 10px;
+    }
+
+    .skills>h1 {
+        border-bottom: 2px solid #000;
+    }
+
+    b {
+        background-color: #c4ffc7;
+    }
+
+    h1 {
+        color: #111454;
+    }
